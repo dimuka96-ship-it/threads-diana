@@ -196,7 +196,7 @@
     },
     {
       "id": "post-1782544239314-8",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-27T16:00:00.000Z",
       "pillar": "istoria_diana",
       "format": "poll-last-time-for-self",
@@ -211,11 +211,14 @@
       "hashtags": [
         "особистийбренд",
         "жіночапідтримка"
-      ]
+      ],
+      "published_at": "2026-06-27T17:06:07.148Z",
+      "thread_id": "18432415504192790",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaGNq6jkQXI"
     },
     {
       "id": "post-1782544249668-9",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-27T17:00:00.000Z",
       "pillar": "energia_napovnennia",
       "format": "dialog-child-mirror",
@@ -230,7 +233,10 @@
       "hashtags": [
         "турботапросебе",
         "жіночаенергія"
-      ]
+      ],
+      "published_at": "2026-06-27T17:06:23.022Z",
+      "thread_id": "18344445643175057",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaGNs7NkZ2g"
     },
     {
       "id": "post-1782544260246-10",
