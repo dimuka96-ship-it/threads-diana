@@ -358,7 +358,7 @@
     },
     {
       "id": "post-1782544324621-15",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-27T23:00:00.000Z",
       "pillar": "bil_toksychni",
       "format": "diana-letter-past-self",
@@ -373,7 +373,10 @@
       "hashtags": [
         "турботапросебе",
         "самоцінність"
-      ]
+      ],
+      "published_at": "2026-06-27T23:58:45.624Z",
+      "thread_id": "18086604524408119",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaG85D8AG7G"
     },
     {
       "id": "post-1782544334932-16",
