@@ -34,7 +34,7 @@
     },
     {
       "id": "post-1782544142038-1",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-27T09:00:00.000Z",
       "pillar": "vidnov_syly",
       "format": "practice-energy-audit",
@@ -49,7 +49,10 @@
       "hashtags": [
         "материнство",
         "турботапросебе"
-      ]
+      ],
+      "published_at": "2026-06-27T09:26:56.869Z",
+      "thread_id": "17907430419440550",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaFZH0RnL56"
     },
     {
       "id": "post-1782544157307-2",
