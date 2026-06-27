@@ -100,7 +100,7 @@
     },
     {
       "id": "post-1782544179203-4",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-27T12:00:00.000Z",
       "pillar": "energia_vdiachnist",
       "format": "woman-anonymous-message",
@@ -115,11 +115,14 @@
       "hashtags": [
         "турботапросебе",
         "вдячністьсобі"
-      ]
+      ],
+      "published_at": "2026-06-27T13:24:26.255Z",
+      "thread_id": "18162173437457164",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaF0TWYIDIS"
     },
     {
       "id": "post-1782544190107-5",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-27T13:00:00.000Z",
       "pillar": "bil_vtrata_sebe",
       "format": "permission-say-no",
@@ -134,7 +137,10 @@
       "hashtags": [
         "материнство",
         "турботапросебе"
-      ]
+      ],
+      "published_at": "2026-06-27T13:24:42.563Z",
+      "thread_id": "18052747610534918",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaF0VR1oH_j"
     },
     {
       "id": "post-1782544215169-6",
