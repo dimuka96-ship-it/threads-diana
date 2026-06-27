@@ -144,7 +144,7 @@
     },
     {
       "id": "post-1782544215169-6",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-27T14:00:00.000Z",
       "pillar": "vidnov_syly",
       "format": "moment-3am-thoughts",
@@ -167,11 +167,14 @@
         "дім_затишок",
         "кава_сніданок",
         "природа"
-      ]
+      ],
+      "published_at": "2026-06-27T15:13:51.808Z",
+      "thread_id": "17889024117563706",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaGAyxxmjkS"
     },
     {
       "id": "post-1782544225291-7",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-27T15:00:00.000Z",
       "pillar": "lyubov_mify",
       "format": "metaphor-ocean-calm",
@@ -186,7 +189,10 @@
       "hashtags": [
         "материнство",
         "підтримка"
-      ]
+      ],
+      "published_at": "2026-06-27T15:14:06.659Z",
+      "thread_id": "18115372322510018",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaGA2vHlDtz"
     },
     {
       "id": "post-1782544239314-8",
