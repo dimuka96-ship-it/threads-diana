@@ -240,7 +240,7 @@
     },
     {
       "id": "post-1782544260246-10",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-27T18:00:00.000Z",
       "pillar": "bil_vtrata_sebe",
       "format": "list-phrases-stop",
@@ -255,11 +255,14 @@
       "hashtags": [
         "особистімежі",
         "турботапросебе"
-      ]
+      ],
+      "published_at": "2026-06-27T19:15:00.986Z",
+      "thread_id": "18121314499690682",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaGca9XFS-c"
     },
     {
       "id": "post-1782544269438-11",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-27T19:00:00.000Z",
       "pillar": "vidnov_syly",
       "format": "permission-say-no",
@@ -274,7 +277,10 @@
       "hashtags": [
         "відновлення",
         "кордони"
-      ]
+      ],
+      "published_at": "2026-06-27T19:15:17.287Z",
+      "thread_id": "18103322774281833",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaGcc_8FfRR"
     },
     {
       "id": "post-1782544279012-12",
