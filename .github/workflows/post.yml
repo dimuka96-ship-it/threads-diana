@@ -1,0 +1,46 @@
+name: Post to Threads
+
+on:
+  schedule:
+    - cron: "0 * * * *" # каждый час: публикуем «созревшие» посты
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Опубликовать один пост сразу (тест), игнорируя расписание"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: treads-state
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install
+      - name: Publish posts
+        env:
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+        run: |
+          if [ "${{ inputs.force }}" = "true" ]; then
+            node src/post.js --publish --all --limit 1
+          else
+            node src/post.js --publish --limit 2
+          fi
+      - name: Commit state
+        run: |
+          git config user.name "treads-bot"
+          git config user.email "treads-bot@users.noreply.github.com"
+          git add data
+          git commit -m "chore: posted $(date -u +%FT%TZ)" || { echo "nothing to commit"; exit 0; }
+          git pull --rebase --autostash || true
+          git push

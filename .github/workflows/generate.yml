@@ -1,0 +1,47 @@
+name: Generate posts
+
+on:
+  schedule:
+    - cron: "0 4 * * *" # каждый день ~07:00 GMT+3: ресёрч + наполнение очереди
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: treads-state
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install
+      - name: Research (свежие инсайты/тренды/новости)
+        continue-on-error: true
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node src/research.js
+      - name: Tag new media (Gemini-зрение по новым файлам Drive)
+        continue-on-error: true
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+        run: node src/vision.js
+      - name: Generate day's queue
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+        run: node src/generate.js --count 24
+      - name: Commit state
+        run: |
+          git config user.name "treads-bot"
+          git config user.email "treads-bot@users.noreply.github.com"
+          git add data
+          git commit -m "chore: generate queue $(date -u +%F)" || { echo "nothing to commit"; exit 0; }
+          git pull --rebase --autostash || true
+          git push

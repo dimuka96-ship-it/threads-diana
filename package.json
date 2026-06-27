@@ -1,0 +1,13 @@
+{
+  "name": "treads",
+  "version": "0.1.0",
+  "description": "Авто-постинг в Threads для лидогенерации (Google/Meta Ads) на русскоязычную аудиторию за рубежом",
+  "type": "module",
+  "scripts": {
+    "generate": "node src/generate.js",
+    "preview": "node src/generate.js --count 5 --no-ai"
+  },
+  "dependencies": {
+    "@google/genai": "^1.40.0"
+  }
+}
