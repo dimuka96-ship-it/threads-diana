@@ -314,7 +314,7 @@
     },
     {
       "id": "post-1782544290232-13",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-27T21:00:00.000Z",
       "pillar": "istoria_diana",
       "format": "pain-cant-say-no",
@@ -329,11 +329,14 @@
       "hashtags": [
         "втома",
         "самоцінність"
-      ]
+      ],
+      "published_at": "2026-06-27T22:06:04.550Z",
+      "thread_id": "17922068283164442",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaGv_zHFVl1"
     },
     {
       "id": "post-1782544301376-14",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-27T22:00:00.000Z",
       "pillar": "energia_napovnennia",
       "format": "moment-3am-thoughts",
@@ -348,7 +351,10 @@
       "hashtags": [
         "материнство",
         "самоцінність"
-      ]
+      ],
+      "published_at": "2026-06-27T22:06:19.958Z",
+      "thread_id": "17872958754533886",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaGwB4DlRVP"
     },
     {
       "id": "post-1782544324621-15",
