@@ -4,7 +4,7 @@
   "posts": [
     {
       "id": "post-1782542901381-0",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-27T07:00:00.000Z",
       "pillar": "bil_toksychni",
       "format": "diana-no-help",
@@ -19,7 +19,10 @@
       "hashtags": [
         "турботапросебе",
         "материнство"
-      ]
+      ],
+      "published_at": "2026-06-27T06:56:15.845Z",
+      "thread_id": "18012750809714380",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaFH4Oxka6J"
     },
     {
       "id": "post-1782542909499-1",
