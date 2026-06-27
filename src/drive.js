@@ -26,7 +26,8 @@ const SCOPE = "https://www.googleapis.com/auth/drive.readonly";
 let creds = null;
 async function loadCreds() {
   if (creds) return creds;
-  const raw = process.env.GOOGLE_SERVICE_ACCOUNT_JSON || (await readFile(KEY_FILE, "utf8"));
+  let raw = process.env.GOOGLE_SERVICE_ACCOUNT_JSON || (await readFile(KEY_FILE, "utf8"));
+  raw = raw.replace(/^﻿/, "").trim(); // срезаем BOM/пробелы (бывает при заливке секрета через PowerShell)
   creds = JSON.parse(raw);
   return creds;
 }
