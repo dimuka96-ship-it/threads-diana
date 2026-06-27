@@ -284,7 +284,7 @@
     },
     {
       "id": "post-1782544279012-12",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-27T20:00:00.000Z",
       "pillar": "lyubov_do_sebe",
       "format": "metaphor-faded-flower",
@@ -307,7 +307,10 @@
         "жінка_сама",
         "портрет_обличчя",
         "краса_догляд"
-      ]
+      ],
+      "published_at": "2026-06-27T20:58:14.529Z",
+      "thread_id": "17951719505997398",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaGoOiwD_g_"
     },
     {
       "id": "post-1782544290232-13",
