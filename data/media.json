@@ -44,7 +44,7 @@
       ],
       "mood": "впевненість",
       "description": "Селфі усміхненої брюнетки з гарним макіяжем та золотим кольє на шиї",
-      "used": false
+      "used": true
     },
     "1d4eY3Rs9tEVawFqOS66FxnP7LrvCf8Yi": {
       "name": "IMG_1318.jpeg",
@@ -90,7 +90,7 @@
       ],
       "mood": "ніжність",
       "description": "Селфі молодої мами з немовлям, яке спить поруч.",
-      "used": false
+      "used": true
     },
     "1K6PQVPt5-qsI8HW1UsMfmGmPbWJZMWWd": {
       "name": "IMG_0369.mov",
@@ -434,7 +434,7 @@
       ],
       "mood": "ніжність",
       "description": "Портрет обличчя жінки крупним планом, частково прикритий великою жовтою квіткою орхідеї",
-      "used": false
+      "used": true
     },
     "1n1WQONgzuzeY6j6mxaPRI7ybEvHNKJbw": {
       "name": "IMG_5187.jpeg",
@@ -459,7 +459,7 @@
       ],
       "mood": "радість",
       "description": "Мама з посмішкою грається з маленькою дитиною у новорічній шапочці дерев'яними іграшками",
-      "used": false
+      "used": true
     },
     "1o18SSoQjBz0_Iq17N5AI9ib3VJW9R8YR": {
       "name": "IMG_4280.jpeg",
@@ -830,6 +830,222 @@
       ],
       "mood": "радість",
       "description": "Мама з маленькою дитиною відпочивають у басейні з плаваючим тропічним сніданком на тлі екзотичної зелені.",
+      "used": false
+    },
+    "1ED1f0hVCOLW30DTO5cnSA9xaxDAXWPIN": {
+      "name": "IMG_7825.jpeg",
+      "mimeType": "image/jpeg",
+      "tags": [
+        "жінка_сама",
+        "дім_затишок"
+      ],
+      "mood": "спокій",
+      "description": "Жінка сидить на білому дивані та гортає велику книгу або альбом.",
+      "used": false
+    },
+    "1w-IJYsBIuE3uenDXFst7F16tI2-f_naP": {
+      "name": "IMG_7788.jpeg",
+      "mimeType": "image/jpeg",
+      "tags": [
+        "тіло_деталь",
+        "краса_догляд",
+        "жінка_сама"
+      ],
+      "mood": "релакс",
+      "description": "Крупний план жіночих ніг та рук біля блакитного басейну.",
+      "used": false
+    },
+    "1TI00x2C8JAbcLkuLnnLcqI9vdGVKem5Y": {
+      "name": "IMG_6429.jpeg",
+      "mimeType": "image/jpeg",
+      "tags": [
+        "квіти",
+        "дім_затишок"
+      ],
+      "mood": "естетика",
+      "description": "Біла орхідея у горщику на дерев'яному столі в світлому інтер'єрі.",
+      "used": false
+    },
+    "1hsM0A9Db8RdcBpfmTEN3RbLyegvN5YIR": {
+      "name": "IMG_5917.jpeg",
+      "mimeType": "image/jpeg",
+      "tags": [
+        "мама_з_дитиною",
+        "діти",
+        "дім_затишок",
+        "радість_світло"
+      ],
+      "mood": "ніжність",
+      "description": "Мама грається з маленькою дитиною на ліжку в світлій кімнаті.",
+      "used": false
+    },
+    "108-aHHO24L96kwDb3bVPWONz-cc9LBOr": {
+      "name": "IMG_5885.jpeg",
+      "mimeType": "image/jpeg",
+      "tags": [
+        "пара_стосунки",
+        "тіло_деталь",
+        "дім_затишок"
+      ],
+      "mood": "близькість",
+      "description": "Ніжний дотик чоловічої та жіночої рук на білому простирадлі.",
+      "used": false
+    },
+    "1Ev3U1UTQsB6xJaY3DzS3n9IHIUQ5yBG3": {
+      "name": "IMG_5857.jpeg",
+      "mimeType": "image/jpeg",
+      "tags": [
+        "дім_затишок"
+      ],
+      "mood": "затишок",
+      "description": "Чорно-біла картина з мамою-слонихою та слоненям на стіні в інтер'єрі.",
+      "used": false
+    },
+    "1tX25AFfK9LSBvLzCyZo6kZjjw7GLaIIh": {
+      "name": "IMG_7628.jpeg",
+      "mimeType": "image/jpeg",
+      "tags": [
+        "жінка_сама",
+        "природа",
+        "краса_догляд"
+      ],
+      "mood": "освіження",
+      "description": "Жінка у білому купальнику приймає літній душ просто неба серед тропічної зелені.",
+      "used": false
+    },
+    "1fdpzIUWsB-SRiuCNdwX63teiAqWO2lnF": {
+      "name": "IMG_7615.jpeg",
+      "mimeType": "image/jpeg",
+      "tags": [
+        "жінка_сама",
+        "робота_ноутбук"
+      ],
+      "mood": "зосередженість",
+      "description": "Жінка зосереджено малює або пише стилусом на планшеті за дерев'яним столом.",
+      "used": false
+    },
+    "11OPxq2FGUselqjqwaYn4lTbJDGdF43IE": {
+      "name": "IMG_7612.jpeg",
+      "mimeType": "image/jpeg",
+      "tags": [
+        "тіло_деталь",
+        "жінка_сама",
+        "дім_затишок"
+      ],
+      "mood": "відпочинок",
+      "description": "Жіночі стрункі ноги відпочивають на білому дивані біля великого вікна.",
+      "used": false
+    },
+    "1GydAnxGVecH5aZAsdDhQE1HwIBCZlM16": {
+      "name": "IMG_7609.jpeg",
+      "mimeType": "image/jpeg",
+      "tags": [
+        "жінка_сама",
+        "дім_затишок"
+      ],
+      "mood": "спокій",
+      "description": "Жінка відпочиває на великому білому дивані у світлій вітальні з панорамними вікнами.",
+      "used": false
+    },
+    "1j689knwFvtttzTu91i2CuNqti7Vd4kEF": {
+      "name": "IMG_7589.jpeg",
+      "mimeType": "image/jpeg",
+      "tags": [
+        "діти",
+        "дім_затишок",
+        "тіло_деталь"
+      ],
+      "mood": "ніжність",
+      "description": "Ніжки малюка у святковій піжамі на білій постелі",
+      "used": false
+    },
+    "1sRur6tv3cFh5Dkv9aQnaVPwjGzwizQHJ": {
+      "name": "IMG_7581.jpeg",
+      "mimeType": "image/jpeg",
+      "tags": [
+        "жінка_сама",
+        "дім_затишок"
+      ],
+      "mood": "спокій",
+      "description": "Жінка готує їжу на світлій кухні біля великого вікна",
+      "used": false
+    },
+    "1ZKFcUIVSVo0Vzj395X_Vc3_QvNpRqb1D": {
+      "name": "IMG_7577.jpeg",
+      "mimeType": "image/jpeg",
+      "tags": [
+        "жінка_сама",
+        "краса_догляд",
+        "дім_затишок"
+      ],
+      "mood": "розслаблення",
+      "description": "Жінка приймає ванну з видом на тропічну зелень",
+      "used": false
+    },
+    "1uojHaP1yZ7cx94HxIvzVQq27M2miy0Nt": {
+      "name": "IMG_7211.jpeg",
+      "mimeType": "image/jpeg",
+      "tags": [
+        "дім_затишок",
+        "природа"
+      ],
+      "mood": "відпочинок",
+      "description": "Рожевий надувний фламінго біля борту басейну на віллі",
+      "used": false
+    },
+    "1uno3wDDQTzOwhKkGOde6yix0eBesN0cJ": {
+      "name": "IMG_7185.jpeg",
+      "mimeType": "image/jpeg",
+      "tags": [
+        "дім_затишок"
+      ],
+      "mood": "затишок",
+      "description": "Затишна зона відпочинку з білим диваном та книгою під сонячними променями",
+      "used": false
+    },
+    "1ez1Fx5Vq5djO_VpZkbJ44uxSRWDXxkwL": {
+      "name": "IMG_5292.mov",
+      "mimeType": "video/quicktime",
+      "tags": [
+        "жінка_сама",
+        "радість_світло"
+      ],
+      "mood": "радість",
+      "description": "Дівчина плаває в басейні з надувним рожевим фламінго",
+      "used": false
+    },
+    "1KrNtQ0ja9vpcLIiQKh-Tpax5_gUcKotw": {
+      "name": "IMG_7156.jpeg",
+      "mimeType": "image/jpeg",
+      "tags": [
+        "мама_з_дитиною",
+        "діти",
+        "дім_затишок"
+      ],
+      "mood": "щастя",
+      "description": "Малюк у новорічній шапці повзе по підлозі, а мама посміхається на задньому плані",
+      "used": false
+    },
+    "1aaCLw9ht-yfro_smrUPzMybWITC4noM_": {
+      "name": "IMG_5174.mov",
+      "mimeType": "video/quicktime",
+      "tags": [
+        "жінка_сама",
+        "краса_догляд"
+      ],
+      "mood": "релакс",
+      "description": "Жінка відпочиває на шезлонгу біля басейну із заплющеними очима",
+      "used": false
+    },
+    "1r-ihbi47MAhkR_c1M3Z9HM9F2z1vTZMl": {
+      "name": "IMG_5071.mov",
+      "mimeType": "video/quicktime",
+      "tags": [
+        "жінка_сама",
+        "дім_затишок"
+      ],
+      "mood": "спокій",
+      "description": "Дівчина відпочиває на дивані та гортає стрічку в телефоні",
       "used": false
     }
   }
