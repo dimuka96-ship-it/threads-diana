@@ -79,7 +79,7 @@
     },
     {
       "id": "post-1782633515350-3",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-28T11:00:00.000Z",
       "pillar": "istoria_zhinok",
       "format": "list-energy-drainers",
@@ -94,11 +94,14 @@
       "hashtags": [
         "втома",
         "відновлення"
-      ]
+      ],
+      "published_at": "2026-06-28T13:28:11.362Z",
+      "thread_id": "17933304876319629",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaIZhnnkaRz"
     },
     {
       "id": "post-1782633525987-4",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-28T12:00:00.000Z",
       "pillar": "energia_napovnennia",
       "format": "practice-three-anchors",
@@ -113,7 +116,10 @@
       "hashtags": [
         "самоцінність",
         "відносини"
-      ]
+      ],
+      "published_at": "2026-06-28T13:28:27.563Z",
+      "thread_id": "18167439364434893",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaIZjoakcU2"
     },
     {
       "id": "post-1782633535260-5",
