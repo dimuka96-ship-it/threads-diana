@@ -316,7 +316,7 @@
     },
     {
       "id": "post-1782633629220-13",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-28T21:00:00.000Z",
       "pillar": "istoria_zhinok",
       "format": "pain-wake-up-tired",
@@ -331,11 +331,14 @@
       "hashtags": [
         "материнство",
         "психосоматика"
-      ]
+      ],
+      "published_at": "2026-06-28T22:04:07.352Z",
+      "thread_id": "18111118187489929",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaJUkM1GNnB"
     },
     {
       "id": "post-1782633637167-14",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-28T22:00:00.000Z",
       "pillar": "energia_napovnennia",
       "format": "aphorism-you-deserve",
@@ -350,7 +353,10 @@
       "hashtags": [
         "втома",
         "турботапросебе"
-      ]
+      ],
+      "published_at": "2026-06-28T22:04:24.924Z",
+      "thread_id": "18101987276140476",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaJUmdkGKky"
     },
     {
       "id": "post-1782633651404-15",
