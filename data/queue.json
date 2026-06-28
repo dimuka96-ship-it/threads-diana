@@ -4,7 +4,7 @@
   "posts": [
     {
       "id": "post-1782633482953-0",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-28T08:00:00.000Z",
       "pillar": "bil_dlia_vsih",
       "format": "woman-toxic-relationship",
@@ -28,7 +28,10 @@
         "діти",
         "дім_затишок",
         "радість_світло"
-      ]
+      ],
+      "published_at": "2026-06-28T08:18:42.786Z",
+      "thread_id": "18126173758575816",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaH2G0YFmVA"
     },
     {
       "id": "post-1782633493546-1",
