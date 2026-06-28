@@ -175,7 +175,7 @@
     },
     {
       "id": "post-1782633563158-7",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-28T15:00:00.000Z",
       "pillar": "lyubov_mify",
       "format": "aphorism-redefine-word",
@@ -190,11 +190,14 @@
       "hashtags": [
         "турботапросебе",
         "психологія"
-      ]
+      ],
+      "published_at": "2026-06-28T17:05:23.751Z",
+      "thread_id": "17892569706555721",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaIyXrpiJ9X"
     },
     {
       "id": "post-1782633571450-8",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-28T16:00:00.000Z",
       "pillar": "istoria_diana",
       "format": "myth-positive-thinking",
@@ -209,7 +212,10 @@
       "hashtags": [
         "материнство",
         "турботапросебе"
-      ]
+      ],
+      "published_at": "2026-06-28T17:05:46.980Z",
+      "thread_id": "18110169052943670",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaIyakdiLN6"
     },
     {
       "id": "post-1782633581157-9",
