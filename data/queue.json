@@ -380,7 +380,7 @@
     },
     {
       "id": "post-1782544334932-16",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-28T00:00:00.000Z",
       "pillar": "vidnov_syly",
       "format": "provocation-busy-badge",
@@ -395,11 +395,14 @@
       "hashtags": [
         "турбота_про_себе",
         "відновлення_сил"
-      ]
+      ],
+      "published_at": "2026-06-28T04:16:52.264Z",
+      "thread_id": "18140315002551769",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaHabd6mzN0"
     },
     {
       "id": "post-1782544346213-17",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-28T01:00:00.000Z",
       "pillar": "lyubov_dozvil",
       "format": "provocation-busy-badge",
@@ -414,7 +417,10 @@
       "hashtags": [
         "дозвольсобі",
         "вигорання"
-      ]
+      ],
+      "published_at": "2026-06-28T04:17:08.630Z",
+      "thread_id": "18016085402887694",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaHadqoG5iy"
     },
     {
       "id": "post-1782544359445-18",
