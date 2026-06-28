@@ -219,7 +219,7 @@
     },
     {
       "id": "post-1782633581157-9",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-28T17:00:00.000Z",
       "pillar": "energia_vdiachnist",
       "format": "letter-to-self-evening",
@@ -234,11 +234,14 @@
       "hashtags": [
         "самопідтримка",
         "турботапросебе"
-      ]
+      ],
+      "published_at": "2026-06-28T19:13:13.016Z",
+      "thread_id": "17901350292459881",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaJBAoVmq2r"
     },
     {
       "id": "post-1782633590185-10",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-28T18:00:00.000Z",
       "pillar": "bil_vtrata_sebe",
       "format": "permission-feelings",
@@ -253,7 +256,10 @@
       "hashtags": [
         "поверненнядосебе",
         "жіночапідтримка"
-      ]
+      ],
+      "published_at": "2026-06-28T19:13:30.270Z",
+      "thread_id": "17945123409036701",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaJBCsvmpfI"
     },
     {
       "id": "post-1782633601638-11",
