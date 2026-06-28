@@ -263,7 +263,7 @@
     },
     {
       "id": "post-1782633601638-11",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-28T19:00:00.000Z",
       "pillar": "vidnov_praktyky",
       "format": "dialog-future-self",
@@ -278,11 +278,14 @@
       "hashtags": [
         "поверненнядосебе",
         "турботапросебе"
-      ]
+      ],
+      "published_at": "2026-06-28T20:57:57.873Z",
+      "thread_id": "17877588660673648",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaJM_q2D7bh"
     },
     {
       "id": "post-1782633614097-12",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-28T20:00:00.000Z",
       "pillar": "lyubov_do_sebe",
       "format": "permission-rest",
@@ -306,7 +309,10 @@
         "жінка_сама",
         "квіти",
         "краса_догляд"
-      ]
+      ],
+      "published_at": "2026-06-28T20:58:17.970Z",
+      "thread_id": "17895823533524038",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaJNCAkj2rM"
     },
     {
       "id": "post-1782633629220-13",
