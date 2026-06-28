@@ -35,7 +35,7 @@
     },
     {
       "id": "post-1782633493546-1",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-28T09:00:00.000Z",
       "pillar": "vidnov_praktyky",
       "format": "diana-letter-past-self",
@@ -50,11 +50,14 @@
       "hashtags": [
         "турботапросебе",
         "жіночаенергія"
-      ]
+      ],
+      "published_at": "2026-06-28T11:03:54.985Z",
+      "thread_id": "18058784312742869",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaIJBBSFdsa"
     },
     {
       "id": "post-1782633502197-2",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-28T10:00:00.000Z",
       "pillar": "lyubov_do_sebe",
       "format": "permission-first",
@@ -69,7 +72,10 @@
       "hashtags": [
         "турботапросебе",
         "вигорання"
-      ]
+      ],
+      "published_at": "2026-06-28T11:04:10.492Z",
+      "thread_id": "17992210427806557",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaIJC9HFWbv"
     },
     {
       "id": "post-1782633515350-3",
