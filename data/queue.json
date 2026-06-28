@@ -123,7 +123,7 @@
     },
     {
       "id": "post-1782633535260-5",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-28T13:00:00.000Z",
       "pillar": "bil_toksychni",
       "format": "transform-point-zero",
@@ -138,11 +138,14 @@
       "hashtags": [
         "відносини",
         "самоцінність"
-      ]
+      ],
+      "published_at": "2026-06-28T15:15:46.211Z",
+      "thread_id": "18187579579387570",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaIl1lOFlJa"
     },
     {
       "id": "post-1782633552036-6",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-28T14:00:00.000Z",
       "pillar": "vidnov_praktyky",
       "format": "pain-many-roles",
@@ -165,7 +168,10 @@
         "мама_з_дитиною",
         "діти",
         "дім_затишок"
-      ]
+      ],
+      "published_at": "2026-06-28T15:16:05.779Z",
+      "thread_id": "18088932725631120",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaIl37HjYj5"
     },
     {
       "id": "post-1782633563158-7",
