@@ -4,7 +4,7 @@
   "posts": [
     {
       "id": "post-1782723938427-0",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-29T10:00:00.000Z",
       "pillar": "bil_dlia_vsih",
       "format": "dialog-husband",
@@ -27,7 +27,10 @@
         "мама_з_дитиною",
         "діти",
         "радість_світло"
-      ]
+      ],
+      "published_at": "2026-06-29T10:50:03.763Z",
+      "thread_id": "18070531100686782",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaKsOBXm4T5"
     },
     {
       "id": "post-1782723948670-1",
