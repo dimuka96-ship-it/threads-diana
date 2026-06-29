@@ -360,7 +360,7 @@
     },
     {
       "id": "post-1782633651404-15",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-28T23:00:00.000Z",
       "pillar": "bil_vtrata_sebe",
       "format": "diana-letter-past-self",
@@ -375,11 +375,14 @@
       "hashtags": [
         "материнство",
         "поверненнядосебе"
-      ]
+      ],
+      "published_at": "2026-06-29T00:04:35.108Z",
+      "thread_id": "18116326882868813",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaJiWrzgEYM"
     },
     {
       "id": "post-1782633662949-16",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-29T00:00:00.000Z",
       "pillar": "vidnov_praktyky",
       "format": "list-permission-checklist",
@@ -394,7 +397,10 @@
       "hashtags": [
         "турбота_про_себе",
         "жіночий_ресурс"
-      ]
+      ],
+      "published_at": "2026-06-29T00:04:51.091Z",
+      "thread_id": "17957252787168500",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaJiYwWgMck"
     },
     {
       "id": "post-1782633675815-17",
