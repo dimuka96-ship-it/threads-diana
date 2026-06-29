@@ -34,7 +34,7 @@
     },
     {
       "id": "post-1782723948670-1",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-29T11:00:00.000Z",
       "pillar": "vidnov_syly",
       "format": "permission-not-convenient",
@@ -49,11 +49,14 @@
       "hashtags": [
         "повернення_до_себе",
         "жіноча_енергія"
-      ]
+      ],
+      "published_at": "2026-06-29T14:49:22.288Z",
+      "thread_id": "18055347740765042",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaLHnGdEZv1"
     },
     {
       "id": "post-1782723960097-2",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-29T12:00:00.000Z",
       "pillar": "lyubov_do_sebe",
       "format": "metaphor-house-guest",
@@ -68,7 +71,10 @@
       "hashtags": [
         "материнство",
         "відпочинок"
-      ]
+      ],
+      "published_at": "2026-06-29T14:49:39.840Z",
+      "thread_id": "18109895435283401",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaLHpL5EcPA"
     },
     {
       "id": "post-1782723970557-3",
