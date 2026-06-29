@@ -404,7 +404,7 @@
     },
     {
       "id": "post-1782633675815-17",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-29T01:00:00.000Z",
       "pillar": "lyubov_mify",
       "format": "dialog-husband",
@@ -419,11 +419,14 @@
       "hashtags": [
         "турботапросебе",
         "відчутисебе"
-      ]
+      ],
+      "published_at": "2026-06-29T05:27:40.977Z",
+      "thread_id": "17897987472530544",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaKHVLonP-T"
     },
     {
       "id": "post-1782633696295-18",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-29T02:00:00.000Z",
       "pillar": "istoria_zhinok",
       "format": "list-self-love-actions",
@@ -446,7 +449,10 @@
         "жінка_сама",
         "портрет_обличчя",
         "краса_догляд"
-      ]
+      ],
+      "published_at": "2026-06-29T05:28:15.928Z",
+      "thread_id": "18052940426602697",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaKHXtHErh_"
     },
     {
       "id": "post-1782633706526-19",
