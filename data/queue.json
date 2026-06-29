@@ -171,7 +171,7 @@
     },
     {
       "id": "post-1782724020501-7",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-29T17:00:00.000Z",
       "pillar": "lyubov_dozvil",
       "format": "list-lost-self-signs",
@@ -186,11 +186,14 @@
       "hashtags": [
         "дозволитисобі",
         "жіночапідтримка"
-      ]
+      ],
+      "published_at": "2026-06-29T21:22:39.186Z",
+      "thread_id": "18595187008000577",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaL0nl5oN_V"
     },
     {
       "id": "post-1782724038127-8",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-29T18:00:00.000Z",
       "pillar": "istoria_zhinok",
       "format": "poll-guilt-or-rest",
@@ -205,7 +208,10 @@
       "hashtags": [
         "ранкова_тривога",
         "дозвіл_на_відпочинок"
-      ]
+      ],
+      "published_at": "2026-06-29T21:22:55.701Z",
+      "thread_id": "18104337893031125",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaL0pl_oM7A"
     },
     {
       "id": "post-1782724048922-9",
