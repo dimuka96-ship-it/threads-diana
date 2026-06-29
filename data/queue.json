@@ -215,7 +215,7 @@
     },
     {
       "id": "post-1782724048922-9",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-29T19:00:00.000Z",
       "pillar": "energia_napovnennia",
       "format": "aphorism-truth-line",
@@ -230,11 +230,14 @@
       "hashtags": [
         "відновленнярессурсу",
         "мамивдекреті"
-      ]
+      ],
+      "published_at": "2026-06-29T22:53:17.502Z",
+      "thread_id": "18013567106871155",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaL-_R4AZyf"
     },
     {
       "id": "post-1782724058667-10",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-29T20:00:00.000Z",
       "pillar": "bil_dlia_vsih",
       "format": "letter-to-tired-woman",
@@ -249,7 +252,10 @@
       "hashtags": [
         "турботапросебе",
         "відчутисебе"
-      ]
+      ],
+      "published_at": "2026-06-29T22:53:34.477Z",
+      "thread_id": "18005441741948271",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaL_BeEgadu"
     },
     {
       "id": "post-1782724067426-11",
