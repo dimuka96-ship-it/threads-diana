@@ -119,7 +119,7 @@
     },
     {
       "id": "post-1782723992597-5",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-29T15:00:00.000Z",
       "pillar": "bil_dlia_vsih",
       "format": "transform-self-love-key",
@@ -134,11 +134,14 @@
       "hashtags": [
         "втома",
         "турботапросебе"
-      ]
+      ],
+      "published_at": "2026-06-29T19:51:36.373Z",
+      "thread_id": "18119537194763440",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaLqMliGETv"
     },
     {
       "id": "post-1782724005791-6",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-29T16:00:00.000Z",
       "pillar": "vidnov_syly",
       "format": "practice-morning-question",
@@ -161,7 +164,10 @@
         "жінка_сама",
         "море_пляж",
         "природа"
-      ]
+      ],
+      "published_at": "2026-06-29T19:51:56.211Z",
+      "thread_id": "17956558833152338",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaLqO3fmJf0"
     },
     {
       "id": "post-1782724020501-7",
