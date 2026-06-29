@@ -78,7 +78,7 @@
     },
     {
       "id": "post-1782723970557-3",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-29T13:00:00.000Z",
       "pillar": "istoria_zhinok",
       "format": "woman-comparison-trap",
@@ -92,11 +92,14 @@
       "image_idea": "Затишне фото простих сезонних квітів у склянці на підвіконні у променях ранкового сонця",
       "hashtags": [
         "повернення_до_себе"
-      ]
+      ],
+      "published_at": "2026-06-29T17:33:18.308Z",
+      "thread_id": "18087940967425754",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaLaXlMmlNI"
     },
     {
       "id": "post-1782723980938-4",
-      "status": "draft",
+      "status": "error",
       "scheduled_at": "2026-06-29T14:00:00.000Z",
       "pillar": "energia_napovnennia",
       "format": "provocation-not-lazy",
@@ -111,7 +114,8 @@
       "hashtags": [
         "жіночездоровя",
         "турботапросебе"
-      ]
+      ],
+      "error": "публикация: {\"error\":{\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"type\":\"OAuthException\",\"is_transient\":true,\"code\":2,\"fbtrace_id\":\"AqBcAarNN4iPQpy5TdLE2L4\"}}"
     },
     {
       "id": "post-1782723992597-5",
