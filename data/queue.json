@@ -259,7 +259,7 @@
     },
     {
       "id": "post-1782724067426-11",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-29T21:00:00.000Z",
       "pillar": "vidnov_syly",
       "format": "provocation-not-lazy",
@@ -274,11 +274,14 @@
       "hashtags": [
         "материнство",
         "втома"
-      ]
+      ],
+      "published_at": "2026-06-30T00:00:30.460Z",
+      "thread_id": "17977998702022130",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaMGrsxGn-B"
     },
     {
       "id": "post-1782724080302-12",
-      "status": "draft",
+      "status": "published",
       "scheduled_at": "2026-06-29T22:00:00.000Z",
       "pillar": "lyubov_dozvil",
       "format": "pain-holding-on",
@@ -301,7 +304,10 @@
         "жінка_сама",
         "дім_затишок",
         "радість_світло"
-      ]
+      ],
+      "published_at": "2026-06-30T00:00:49.875Z",
+      "thread_id": "18094758788353585",
+      "permalink": "https://www.threads.com/@palanska.di/post/DaMGt-rmmtY"
     },
     {
       "id": "post-1782724090783-13",
